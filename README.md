@@ -4,6 +4,10 @@ Designing of thermostable proteins with a desired melting temperature
 PPTStab is developed to predict the thermostability of proteins and design the thermostable proteins. In the standalone version, ANN+MLP ensemble regressor based model.
 PPTStab is also available as web-server at https://webs.iiitd.edu.in/raghava/pptstab. Please read/cite the content about the PPTStab for complete information including algorithm behind the approach.
 
+## Publication
+Tijare, P., Kumar, N. & Raghava, G.P.S. Prediction and design of thermostable proteins with a desired melting temperature. Sci Rep 15, 16683 (2025). https://doi.org/10.1038/s41598-025-98667-9
+
+
 ## Installation
 To use pptstab, follow these steps to set up your environment:
 

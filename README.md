@@ -7,7 +7,8 @@ PPTStab is also available as web-server at https://webs.iiitd.edu.in/raghava/ppt
 ## Publication
 Tijare, P., Kumar, N. & Raghava, G.P.S. Prediction and design of thermostable proteins with a desired melting temperature. Sci Rep 15, 16683 (2025). https://doi.org/10.1038/s41598-025-98667-9
 
-
+## Zenodo
+PPTStab	https://webs.iiitd.edu.in/raghava/pptstab	2025	Prediction and design of thermostable proteins	2	5	2	https://github.com/raghavagps/pptstab	https://pypi.org/project/pptstab/	Anand	https://doi.org/10.5281/zenodo.19878095														
 ## Installation
 To use pptstab, follow these steps to set up your environment:
 

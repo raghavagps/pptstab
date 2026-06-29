@@ -79,7 +79,7 @@ usage: pptstab.py [-h] [-i INPUT] [-o OUTPUT] [-j {1,2}] [-d {1,2}] [-f {0,1}] [
 | `-j {1,2}` | Job type: 1 = Predict, 2 = Design | 1 |
 | `-f {0,1}` | Flag: 1 = lysate, 0 = cell | 1 |
 | `-d {1,2}` | Display: 1 = thermophilic proteins only, 2 = all proteins | 1 |
-| `-m {EMB,AAC,SER}` | Method: EMB (ProtBERT embeddings), AAC (amino acid composition), SER (Shannon entropy) | SER |
+| `-m {EMB,AAC,SER}` | Method: EMB (ProtBERT embeddings), AAC (amino acid composition), SER (Shannon entropy) | EMB |
 
 ### Usage Examples
 

@@ -83,7 +83,12 @@ usage: pptstab.py [-h] [-i INPUT] [-o OUTPUT] [-j {1,2}] [-d {1,2}] [-f {0,1}] [
 
 ### Usage Examples
 
-**Predict Tm using default SER method (lysate context):**
+**Predict Tm using default ProtBERT embeddings:**
+```bash
+python pptstab.py -i example.fasta -f 1 -m EMB
+```
+
+**Predict Tm using SER method (lysate context):**
 ```bash
 python pptstab.py -i example.fasta -f 1
 ```
@@ -91,11 +96,6 @@ python pptstab.py -i example.fasta -f 1
 **Predict Tm using AAC method, cell context, show all results:**
 ```bash
 python pptstab.py -i example.fasta -f 0 -m AAC -d 2
-```
-
-**Predict Tm using ProtBERT embeddings:**
-```bash
-python pptstab.py -i example.fasta -f 1 -m EMB
 ```
 
 **Design thermostable mutants using SER method:**
